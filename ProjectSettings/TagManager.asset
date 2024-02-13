@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Wood
+  - Metal
+  - Floor
+  - keypad
+  - Paper
+  - InteractiveObject
+  - Interactable
+  - Clipboard
+  - batterydetection
+  - Reach
+  - CinemachineTarget
+  - Chest
+  - batPickup
+  - keypad2
+  - keypad3
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Interact
+  - Water
+  - UI
+  - item
+  - keypad
+  - DoorR
+  - Drawer1
+  - Drawer2
+  - Table
+  - WarDoorL
+  - KitchenDoorLeft
+  - KitchenDrawer
+  - Basement
+  - DoorGlassLeft
+  - DoorGlassRight
+  - Cooker
+  - CabinetDrawer1
+  - CabinetDrawer2
+  - CabinetDrawer3
+  - CabinetDrawer4
+  - CabinetDrawer5
+  - CabinetDrawer6
+  - postprocess
+  - objectInterraction
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 805911ccf77758e408a005b2bbee364f, type: 3}
+  m_Name: whiteHint
+  m_EditorClassIdentifier: 
+  id: 7
+  name: whiteHint
+  description: White Hint with a number on it !
+  prefab: {fileID: 6399106090917467999, guid: 73d7e1312a409944caf46f695326580e, type: 3}
+  model: {fileID: 2696437308084061548, guid: 231be92f74675614b85bff88cb783abc, type: 3}

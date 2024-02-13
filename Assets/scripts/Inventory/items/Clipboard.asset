@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 805911ccf77758e408a005b2bbee364f, type: 3}
+  m_Name: Clipboard
+  m_EditorClassIdentifier: 
+  id: 2
+  name: Clipboard
+  description: oh a Clipboard ! interresting ...
+  prefab: {fileID: 1209191551202478961, guid: 1b1a9afae48df664ab646b55b0dec40a, type: 3}
+  model: {fileID: 2275236116619803987, guid: 3e30f53536aceec4a8e9dddbe6ce89e5, type: 3}

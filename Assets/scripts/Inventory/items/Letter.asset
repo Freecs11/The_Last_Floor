@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 805911ccf77758e408a005b2bbee364f, type: 3}
+  m_Name: Letter
+  m_EditorClassIdentifier: 
+  id: 0
+  name: Letter
+  description: a letter! maybe some clues in it !
+  prefab: {fileID: 2160657453087754552, guid: cf7df4de3557fcd46be0d9a3b8f2c05f, type: 3}
+  model: {fileID: 3370025193220077687, guid: 99633baa71b3b6245967bf3bcf58ea66, type: 3}
