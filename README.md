@@ -1,6 +1,13 @@
 # The Last Floor 
 
-Welcome to our 3D horror game project! This game is a survival horror game where the player wakes up in a hotel room and must escape the hotel. The game takes place at night (with a possible day/night cycle implementation in the future) and the player has to find and use items to navigate through the hotel and overcome obstacles in order to get the ground floor and escape the hotel.
+Welcome to our 3D horror game project! This game is a survival horror game where the player wakes up in a hotel room and must escape the hotel. The game takes place at night and the player has to find and use items to navigate through the hotel and overcome obstacles in order to get the ground floor and escape the hotel.
+
+## Disclaimer:
+This is on github for educational purposes only and also to showcase our work to potential employers. This is not a commercial product and is not intended for distribution.
+Also i have cut alot of the heavy files to make the repo smaller and easier to download and work with so if you want to see the full project please contact me and i will send you the full project.
+
+## Video Demo
+https://drive.google.com/file/d/1IQbJ4NFZX2Baq8Ttf1A33bwWBmrpxB4r/view?usp=sharing
 
 ## Features
 
@@ -8,38 +15,29 @@ The game includes the following features:
 - First-person perspective
 - player controller ( mouse + keyboard)
 - interraction with the environment 
-
-## Future Features
-We plan to add the following features in future updates:
 - Inventory system
-- Multiplayer support ( if possible )
-- Enhanced graphics and sound effects
-- More levels and quests
 - Randomized events and encounters
-- Combat system
-- Various enemies and obstacles to overcome
-- Item collection and usage
-- Multiple levels and quests
+- Gameplay mechanics (puzzles, stealth, combat, etc.)
+- sound effects and background music according to the game's atmosphere 
+
 
 ## Technologies Used
-The game is being developed using Unity 2021.3.24f1 and programmed in C#. We are using Git for version control and GitHub for collaboration.
+The game was developed using the Unity game engine and C# programming language. for the 3D models we opted for solutions online and also a small part of the models were made by us using Blender. The sound effects and background music were obtained from online sources and were edited to fit the game's atmosphere.
 
-We are also using Trello to manage our project tasks and track progress. Trello allows us to create and organize tasks, assign them to team members, and track their status.
+We also used Trello to manage our project tasks and track progress. Trello allows us to create and organize tasks, assign them to team members, and track their status.
 
-And finally we are also using Discord/Whatsapp for team communication. We use these platforms to discuss project-related issues, share ideas and feedback, and coordinate our efforts. 
+
+
 
 ## Participants
-This game is being developed as part of a university project by the following team of developers:
-
+This game was developed as part of a university project by the following team of developers:
         1. Rachid Bouhmad
         2. Ilyes Sais
         3. Zidane Ben Lamlih
-        4. Badara Tall
-        5. Yasmine Tellache
 
 
 ## Context
-This game project is being developed as part of a university course and is currently in early development.
+This game project was developed as part of a university course and was voted as one the top projects done by the students.
 
 ## License
 No License as of now .
@@ -48,5 +46,5 @@ No License as of now .
 ![Screenshot of the game](
 MD/Capture_d_écran_2023-05-13_151554.png "Screenshot")
 
+Thank you for reading our README.md file. i hope you enjoy our game and if you have any questions or suggestions please feel free to contact us.
 
-Thank you for your interest in our game and we hope you enjoy playing it once it's complete!
