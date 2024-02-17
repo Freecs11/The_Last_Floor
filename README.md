@@ -31,6 +31,7 @@ We also used Trello to manage our project tasks and track progress. Trello allow
 
 ## Participants
 This game was developed as part of a university project by the following team of developers:
+        
         1. Rachid Bouhmad
         
         2. Ilyes Sais
