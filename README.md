@@ -1,6 +1,6 @@
 # The Last Floor
 
-Welcome to our 3D horror game project! This game is a survival horror game where the player wakes up in a hotel room and must escape the hotel. The game takes place at night and the player has to find and use items to navigate through the hotel and overcome obstacles in order to get the ground floor and escape the hotel.
+Welcome to my 3D horror game project! This game is a survival horror game where the player wakes up in a hotel room and must escape the hotel. The game takes place at night and the player has to find and use items to navigate through the hotel and overcome obstacles in order to get the ground floor and escape the hotel.
 
 ## Disclaimer:
 This is on github for educational purposes only and also to showcase our work to potential employers. This is not a commercial product and is not intended for distribution.
